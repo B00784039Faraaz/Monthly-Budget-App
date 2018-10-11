@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "589498102999",
+    "firebase_url": "https://monthlybudgetbuddy-218b2.firebaseio.com",
+    "project_id": "monthlybudgetbuddy-218b2",
+    "storage_bucket": "monthlybudgetbuddy-218b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589498102999:android:c61afb5555d3161d",
+        "android_client_info": {
+          "package_name": "com.example.faraaz.monthlybudgetbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589498102999-4v4oodgv90sj7sbaenm68av8r7j5ih31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQkL1u-agiIdlrDHT5bmGvMfaq9GeDVM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589498102999-4v4oodgv90sj7sbaenm68av8r7j5ih31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MonthlyBudgetBuddy</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
 </resources>
